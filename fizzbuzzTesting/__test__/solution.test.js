@@ -1,4 +1,4 @@
-const { fizzbuzz } = require("../main")
+const { fizzbuzz } = require("../solution")
 
 describe("fizzbuzz-Testing divisibility for 3 and 5",()=>{
   it("Returns fizzbuzz if the number is divisible by both 3 and 5",()=>{
